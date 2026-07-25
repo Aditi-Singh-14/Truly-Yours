@@ -1,0 +1,6 @@
+{
+  "name": "Truly Yours",
+  "description": "AI-powered writing voice analyzer and generator matching your exact tone, style, and rhythm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

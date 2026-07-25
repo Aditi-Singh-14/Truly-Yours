@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Truly Yours",
+    "slug": "truly-yours",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
